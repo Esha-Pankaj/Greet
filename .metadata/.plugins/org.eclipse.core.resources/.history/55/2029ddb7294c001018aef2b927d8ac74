@@ -1,0 +1,21 @@
+package com.esha.training.jenkins;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class JenkinsTest {
+
+	@Test
+	public void addtest() {
+		JenkinsCalculator cal=new JenkinsCalculator();
+		assertEquals(10,cal.add(5,5));
+	}
+	
+	public void subtest() {
+		JenkinsCalculator cal=new JenkinsCalculator();
+		assertEquals(5,cal.subtract(10,5));
+	}
+}}
+
+}

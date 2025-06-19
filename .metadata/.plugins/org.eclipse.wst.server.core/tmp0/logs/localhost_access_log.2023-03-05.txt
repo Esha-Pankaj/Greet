@@ -1,0 +1,7 @@
+127.0.0.1 - - [05/Mar/2023:00:36:31 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [05/Mar/2023:00:36:34 +0530] "GET /BugTracking2/login/login.jsp HTTP/1.1" 200 1862
+0:0:0:0:0:0:0:1 - - [05/Mar/2023:00:36:34 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [05/Mar/2023:00:36:47 +0530] "POST /BugTracking2/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Mar/2023:00:36:47 +0530] "GET /BugTracking2/register/register.jsp HTTP/1.1" 200 2399
+0:0:0:0:0:0:0:1 - - [05/Mar/2023:00:37:08 +0530] "POST /BugTracking2/login HTTP/1.1" 200 1154
+0:0:0:0:0:0:0:1 - - [05/Mar/2023:00:37:11 +0530] "GET /BugTracking2/list HTTP/1.1" 200 3545

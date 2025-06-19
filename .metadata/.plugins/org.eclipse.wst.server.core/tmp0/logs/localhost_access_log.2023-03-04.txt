@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:15:50:03 +0530] "GET /BugTracking2/common/Homepage.jsp HTTP/1.1" 200 1154
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:15:50:07 +0530] "GET /BugTracking2/list HTTP/1.1" 200 3092
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:15:50:12 +0530] "GET /BugTracking2/new HTTP/1.1" 200 2392
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:15:50:24 +0530] "POST /BugTracking2/insert HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:15:50:24 +0530] "GET /BugTracking2/list HTTP/1.1" 200 3545
+127.0.0.1 - - [04/Mar/2023:16:03:23 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:16:03:24 +0530] "GET /BugTracking2/login/login.jsp HTTP/1.1" 200 1862
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:16:03:39 +0530] "POST /BugTracking2/login HTTP/1.1" 200 -
+127.0.0.1 - - [04/Mar/2023:16:05:00 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:16:05:01 +0530] "GET /BugTracking2/login/login.jsp HTTP/1.1" 200 1862
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:16:05:11 +0530] "POST /BugTracking2/login HTTP/1.1" 200 -
+127.0.0.1 - - [04/Mar/2023:20:54:50 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:20:54:51 +0530] "GET /BugTracking2/login/login.jsp HTTP/1.1" 200 1862
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:20:54:51 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:21:03:02 +0530] "POST /BugTracking2/login HTTP/1.1" 200 1154
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:21:05:57 +0530] "GET /BugTracking2/list HTTP/1.1" 200 3545
+0:0:0:0:0:0:0:1 - - [04/Mar/2023:21:08:46 +0530] "GET /BugTracking2/new HTTP/1.1" 200 2392

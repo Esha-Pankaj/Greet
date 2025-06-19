@@ -1,0 +1,50 @@
+
+Mar 05, 2023 24:36:34.908 NEW SESSION
+Mar 05, 2023 24:36:34.908 [3116:24988:0305/003634.905:ERROR:device_event_log_impl.cc(218)] [00:36:34.906] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 05, 2023 24:36:34.909 [3116:24988:0305/003634.908:ERROR:device_event_log_impl.cc(218)] [00:36:34.908] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 05, 2023 24:36:35.64 [3116:8256:0305/003635.064:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2023 24:37:03.740 [3116:8256:0305/003703.739:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2023 24:37:08.779 [3116:8256:0305/003708.778:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+Aug 05, 2024 20:55:39.324 NEW SESSION
+Aug 05, 2024 20:55:39.324 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 05, 2024 21:13:35.464 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Aug 06, 2024 12:31:16.455 NEW SESSION
+Aug 06, 2024 12:31:16.455 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 06, 2024 12:31:43.330 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Aug 06, 2024 12:39:42.803 [10068:3476:0806/123942.802:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 06, 2024 12:42:57.850 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 06, 2024 12:43:25.245 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Aug 06, 2024 13:03:17.468 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 06, 2024 13:03:50.30 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Aug 06, 2024 13:50:05.438 [5368:6056:0806/135005.411:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Aug 08, 2024 13:36:39.178 NEW SESSION
+Aug 08, 2024 13:36:39.179 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 08, 2024 13:36:39.664 [12748:13596:0808/133639.663:ERROR:extension_registrar.cc(539)] Failed to unregister service worker for extension ahmpjcflkgiildlgicmcieglgoilbfdp
+Aug 08, 2024 13:37:05.944 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Aug 08, 2024 14:46:22.481 [12748:24520:0808/144622.466:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 08, 2024 17:46:25.63 [12748:24520:0808/174625.063:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 08, 2024 19:46:56.214 [12748:24520:0808/194656.214:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2024 19:46:56.230 [12748:20624:0808/194656.230:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Aug 08, 2024 19:47:49.338 [12748:13596:0808/194749.338:ERROR:device_event_log_impl.cc(196)] [19:47:49.336] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 08, 2024 20:19:50.282 [12748:13596:0808/201950.280:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Aug 15, 2024 12:48:18.852 NEW SESSION
+Aug 15, 2024 12:48:18.852 Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 15, 2024 12:48:51.60 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Aug 15, 2024 12:56:01.116 [11316:6068:0815/125601.114:ERROR:device_event_log_impl.cc(196)] [12:56:01.108] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 15, 2024 12:57:49.749 [11316:6068:0815/125749.748:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Aug 15, 2024 13:13:43.308 [11316:6068:0815/131343.305:ERROR:device_event_log_impl.cc(196)] [13:13:43.304] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 15, 2024 13:51:52.383 [11316:14516:0815/135152.379:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 15, 2024 16:51:56.268 [11316:14516:0815/165156.127:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 16, 2024 13:47:57.153 [11316:14516:0816/134757.153:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Aug 16, 2024 13:55:25.142 [11316:6068:0816/135525.108:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 16, 2024 14:04:11.906 [11316:6068:0816/140411.871:ERROR:device_event_log_impl.cc(196)] [14:04:11.841] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 16, 2024 14:11:03.413 [11316:14516:0816/141103.356:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 16, 2024 14:39:21.353 [11316:6068:0816/143921.346:ERROR:device_event_log_impl.cc(196)] [14:39:21.346] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 16, 2024 16:47:41.225 [11316:14516:0816/164741.217:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 16, 2024 19:47:43.174 [11316:14516:0816/194743.174:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Aug 17, 2024 13:03:11.606 [11316:14516:0817/130311.606:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Aug 17, 2024 13:04:03.915 [11316:6068:0817/130403.913:ERROR:device_event_log_impl.cc(196)] [13:04:03.910] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Form submit</title>
+<style>
+        .container{
+            width: 40%;
+            border: 1px solid black;
+            margin: auto;
+            font-size: 20px;
+        }
+        
+        #f1 table tr td input{
+        font-size: 20px
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <h1>My Form</h1>
+    <form id="f1"action="Tutorial3" method="post">
+    <table>
+    <tr>
+        <td>Name</td>
+            <td><input type="text" name="user_name" placeholder="Enter here"/></td>
+        
+    </tr>
+    
+    <tr>
+        <td>Password</td>
+            <td><input type="password" name="user_pass" placeholder="Enter here"/></td>
+    </tr>
+
+    <tr>
+        <td>Email</td>
+            <td><input type="email" name="user_email" placeholder="Enter your email id"/></td>
+    </tr>
+
+    <tr>
+        <td>Gender</td>
+            <td> <input type="radio" name="user_gen" value="male"/>MALE &nbsp; &nbsp;<input type="radio" name="user_gen" value="female"/>FEMALE</td>
+       
+    </tr>
+    
+    <tr>
+        <td>Select your course:</td>
+        <td>
+            <select name="user_course" >
+            <option value="JAVA">JAVA</option>
+            <option value="C">C</option>
+            <option value="DBMS">DBMS</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td style="right: auto;">
+            <input type="checkbox" value="checked" name="user_cond"/>
+        </td>
+        
+        <td>
+           Click to accept
+         </td>
+    </tr>
+    
+    <tr>
+         <td>
+            <button type="submit">Register</button>
+            <button type="reset">Reset</button>
+         </td>
+    </tr>
+    </table>
+    </form>
+    </div>
+</body>
+</html>

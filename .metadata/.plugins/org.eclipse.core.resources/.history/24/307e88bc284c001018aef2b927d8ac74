@@ -1,0 +1,5 @@
+package com.esha.training.jenkins;
+
+public class JenkinsCalculator {
+
+}
